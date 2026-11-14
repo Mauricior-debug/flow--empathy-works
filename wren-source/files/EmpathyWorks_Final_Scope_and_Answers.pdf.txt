@@ -1,0 +1,96 @@
+
+
+EmpathyWorks — Final Scope & Answers 
+Website, Custom CRM, Booking & Management 
+Hi Steve, 
+Thanks for the final questions. I wanted to put everything clearly in one place so you know exactly what you 
+are getting, what happens after the build, and what happens if you ever decide not to continue with the 
+managed service. 
+1. Payment 
+The build price remains £2,200: 
+• £1,100 to start the build 
+• £1,100 when the website is live and the system is operational 
+The agreed build price does not change. 
+2. What the £2,200 Build Includes 
+The aim is to give EmpathyWorks a complete working system, not simply a website. 
+• Full website built and made live 
+• Core website pages based on the agreed master copy 
+• Custom CRM configured around EmpathyWorks 
+• Booking system 
+• Lead capture from the website 
+• Lead pipeline 
+• Follow-up workflow 
+• Essential automations 
+• Booking confirmations and reminders 
+• Follow-up reminders and next-action tracking 
+• CRM categorisation and lead tracking 
+• Analytics and tracking 
+• SEO-friendly structure and technical foundations 
+• Connection of your existing business email to the CRM 
+The CRM is custom-built around the way EmpathyWorks works, rather than being a generic CRM that you 
+have to adapt your business around. 
+3. Website Pages 
+• Home 
+• About 
+• One-to-One Leadership Coaching 
+• Organisational Leadership & Consultancy 
+• Leadership Subscription Services 
+• Speaking, Workshops & Events 
+• Evidence / Credibility 
+• Contact / Book 
+4. Website Amendments 
+
+We will work through the website with you until you are happy with it. There is no arbitrary limit on 
+amendment rounds for changes that remain within the agreed project scope. 
+The goal is to get the website to a point where you are genuinely happy to put it in front of clients and 
+prospects. 
+5. Essential Automations & Follow-Up 
+The CRM is designed to remove the need to remember who needs attention and when. 
+Example: New enquiry → CRM creates the lead → lead is categorised → conversation is booked → 
+confirmation/reminder is sent → next action is recorded → follow-up reminder appears when it is due. 
+The CRM should answer: “Who do I need to follow up with today?” 
+6. The £149/month Management 
+The £149/month covers: 
+• Website hosting / operation 
+• CRM operation and management 
+• Booking system 
+• Pipeline management 
+• Routine maintenance 
+• Technical updates 
+• Light website and CRM updates 
+• Monitoring 
+• Simple monthly reporting covering the website and CRM 
+Optional AI remains separate at approximately £20-£40/month if you choose to use it. Any separate third-
+party service with its own cost will be agreed with you beforehand. 
+7. Email, Domain & Hosting 
+Your existing business email addresses remain yours and can be connected to the CRM. The website will 
+use the final hosting setup, such as Vercel or Netlify, depending on what is best for the finished system. 
+If you want a branded CRM address such as app.yourdomain.co.uk, we can set that up. Any domain or 
+third-party technical cost will be agreed beforehand. Otherwise, a free domain option can be provided. 
+8. SEO 
+SEO is considered from the beginning. The website will be structured so search engines can understand 
+and discover the pages, with appropriate page information, technical foundations and mobile-friendly 
+structure. This provides a proper SEO foundation, although no provider can guarantee a specific Google 
+ranking. 
+9. Ownership, Export & Future-Proofing 
+You are not locked into us. 
+The EmpathyWorks website and business/customer data remain yours. 
+
+If you ever decide to stop using our managed service, you can export the website and host it anywhere you 
+choose. If you prefer, we can also continue to host it elsewhere for you. 
+CRM data can be exported in a usable format whenever you need it. The CRM also has daily backups, 
+providing additional protection for your data. 
+In short, you can move the website and take your CRM data with you rather than being locked into one 
+platform or provider. 
+10. In Simple Terms 
+Cost What you get 
+£2,200 one-time Complete website + custom CRM + booking + 
+pipeline + follow-up + essential automations + SEO 
+foundations 
+£149/month Hosting/operation + CRM management + 
+booking/pipeline + maintenance + light updates + 
+monthly reporting 
+Optional £20-£40/month AI features if you decide they add value 
+The main objective is simple: give EmpathyWorks a professional website and a CRM system that helps turn 
+enquiries into conversations, opportunities and clients, while making follow-up much easier to manage. 
+If you are happy with the above, we can move forward with the £1,100 start payment and begin the build. 
