@@ -8,10 +8,10 @@ Checked in Chrome at 1280×900 and 390×844, plus `node --test tests/enquiry.tes
 
 ## Conflicts and blocked items
 
-1. **Blocked — Government Gateway user ID.** Source: `Company-official-information-.docx` (“Your new Government Gateway user ID is: 51 60 40 66 64 88”). This is a login credential, not website copy. It is not on any page.
-2. **Blocked — proposed Corporation Tax reference 6767429700.** Same document. Tax-account identifier. Not published.
-3. **Blocked — Companies House submission number 104-490212.** Same document. Internal filing receipt. The public company number 16202448 is in the footer instead.
-4. **Blocked — DUNS 232829768.** Same document. Not part of the website master copy. Not published.
+1. **Blocked — Government Gateway user ID.** Source: `Company-official-information-.docx`. This is a login credential, not website copy. It is not on any page.
+2. **Blocked — proposed Corporation Tax reference.** Same document. Tax-account identifier. Not published.
+3. **Blocked — Companies House submission receipt number.** Same document. Internal filing receipt. The public company number 16202448 is in the footer instead.
+4. **Blocked — DUNS number.** Same document. Not part of the website master copy. Not published.
 5. **Blocked — hosted CRM, pipeline, confirmations, reminders and analytics.** Source: `EmpathyWorks_Final_Scope_and_Answers.pdf` and `EmpathyWorks-What-you-re-getting.pdf`. This job is a static site with no database and no mail server. A valid form opens the visitor’s own email application. The page does not claim the message was received. Checked: unit tests and a live validation pass on `contact.html`.
 6. **Blocked — agency commercial terms.** £2,200 / £1,100, £149 a month, £3,500 and optional AI fees are agreements with the builder, not EmpathyWorks’ public prices. Not on the site. EmpathyWorks’ own prices are published (subscriptions and the Executive Leadership Programme).
 7. **Conflict — subscription tier names.** The older subscription PDF names Leadership Community, Leadership Development Partner and Organisational Partner, without prices. The September 2026 master copy replaces them with Leadership Partner £395, Leadership Development Partner £895 and Strategic Leadership Partner £1,950, all + VAT per month. The master copy is what the site uses. Support types from the older PDF (action learning, away days, advisory work) are included as things a partnership can draw on, not as a second set of tier names.
